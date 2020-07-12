@@ -1,0 +1,404 @@
+08:31:48,724  INFO main steps.BaseStepDefinition:49 - Execution Starts
+08:31:48,739  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+08:31:48,739  INFO main webdriver.DriverProvider:80 - Execution completed
+08:31:57,668  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+08:32:00,140  INFO main steps.BaseStepDefinition:32 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+08:32:01,086  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+08:32:01,122  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+08:32:08,211  INFO main steps.BaseStepDefinition:64 - Execution Ends
+09:27:06,769  INFO main steps.BaseStepDefinition:49 - Execution Starts
+09:27:06,798  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:27:06,800  INFO main webdriver.DriverProvider:80 - Execution completed
+09:27:11,760  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:27:14,202  INFO main steps.BaseStepDefinition:64 - Execution Ends
+09:44:38,791  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:44:38,810  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:44:38,813  INFO main webdriver.DriverProvider:80 - Execution completed
+09:44:44,054  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:44:46,560  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+09:44:47,335  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+09:44:47,367  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+09:44:47,400  INFO main steps.BaseStepDefinition:65 - Execution Ends
+09:46:46,223  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:46:46,238  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:46:46,239  INFO main webdriver.DriverProvider:80 - Execution completed
+09:46:50,213  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:46:52,661  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+09:46:53,607  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+09:46:53,629  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+09:46:53,645  INFO main steps.BaseStepDefinition:65 - Execution Ends
+09:48:40,621  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:48:40,637  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:48:40,637  INFO main webdriver.DriverProvider:80 - Execution completed
+09:48:46,911  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:48:49,337  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+09:48:50,253  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+09:48:50,279  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+09:48:50,295  INFO main steps.BaseStepDefinition:65 - Execution Ends
+09:50:15,284  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:50:15,299  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:50:15,299  INFO main webdriver.DriverProvider:80 - Execution completed
+09:50:19,234  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:50:21,668  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+09:50:22,529  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+09:50:22,570  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+09:50:22,595  INFO main steps.BaseStepDefinition:65 - Execution Ends
+09:51:17,706  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:51:17,722  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:51:17,722  INFO main webdriver.DriverProvider:80 - Execution completed
+09:51:21,688  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:51:24,156  INFO main steps.BaseStepDefinition:65 - Execution Ends
+09:52:05,102  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:52:05,118  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:52:05,118  INFO main webdriver.DriverProvider:80 - Execution completed
+09:52:11,352  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:52:13,785  INFO main steps.BaseStepDefinition:65 - Execution Ends
+09:55:41,679  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:55:41,691  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:55:41,692  INFO main webdriver.DriverProvider:80 - Execution completed
+09:55:45,816  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:55:48,184  INFO main steps.BaseStepDefinition:65 - Execution Ends
+09:56:50,524  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:56:50,538  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:56:50,539  INFO main webdriver.DriverProvider:80 - Execution completed
+09:56:54,530  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:56:56,928  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+09:56:57,901  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+09:56:57,925  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+09:56:57,944  INFO main steps.BaseStepDefinition:65 - Execution Ends
+09:59:23,473  INFO main steps.BaseStepDefinition:50 - Execution Starts
+09:59:23,479  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+09:59:23,479  INFO main webdriver.DriverProvider:80 - Execution completed
+09:59:27,592  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+09:59:29,978  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+09:59:30,952  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+09:59:30,975  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+09:59:30,990  INFO main steps.BaseStepDefinition:65 - Execution Ends
+11:18:20,056  INFO main steps.BaseStepDefinition:50 - Execution Starts
+11:18:20,070  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+11:18:20,071  INFO main webdriver.DriverProvider:80 - Execution completed
+11:18:24,778  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+11:18:27,301  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+11:18:28,336  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+11:18:28,361  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+11:18:28,380  INFO main steps.BaseStepDefinition:65 - Execution Ends
+11:41:04,381  INFO main steps.BaseStepDefinition:50 - Execution Starts
+11:41:04,402  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+11:41:04,402  INFO main webdriver.DriverProvider:80 - Execution completed
+11:41:10,190  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+11:41:12,718  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+11:41:14,012  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+11:41:14,035  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+11:41:14,052  INFO main steps.BaseStepDefinition:65 - Execution Ends
+11:42:51,893  INFO main steps.BaseStepDefinition:50 - Execution Starts
+11:42:51,923  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+11:42:51,924  INFO main webdriver.DriverProvider:80 - Execution completed
+11:42:56,883  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+11:42:59,352  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+11:43:00,083  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+11:43:00,114  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+11:43:21,425  INFO main steps.BaseStepDefinition:65 - Execution Ends
+11:53:13,057  INFO main steps.BaseStepDefinition:50 - Execution Starts
+11:53:13,073  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+11:53:13,074  INFO main webdriver.DriverProvider:80 - Execution completed
+11:53:18,016  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+11:53:20,518  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+11:53:21,742  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+11:53:21,764  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+11:53:42,808  INFO main steps.BaseStepDefinition:65 - Execution Ends
+11:58:37,006  INFO main steps.BaseStepDefinition:50 - Execution Starts
+11:58:37,020  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+11:58:37,021  INFO main webdriver.DriverProvider:80 - Execution completed
+11:58:41,174  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+11:58:43,623  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+11:58:44,305  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+11:58:44,337  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+11:58:44,358  INFO main steps.BaseStepDefinition:65 - Execution Ends
+11:59:43,517  INFO main steps.BaseStepDefinition:50 - Execution Starts
+11:59:43,535  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+11:59:43,536  INFO main webdriver.DriverProvider:80 - Execution completed
+11:59:47,663  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+11:59:50,078  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+11:59:50,922  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+11:59:50,947  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+11:59:50,969  INFO main steps.BaseStepDefinition:65 - Execution Ends
+12:00:36,442  INFO main steps.BaseStepDefinition:50 - Execution Starts
+12:00:36,457  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+12:00:36,458  INFO main webdriver.DriverProvider:80 - Execution completed
+12:00:40,723  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+12:00:43,115  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+12:00:44,342  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+12:00:44,368  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+12:00:44,385  INFO main steps.BaseStepDefinition:65 - Execution Ends
+12:03:18,519  INFO main steps.BaseStepDefinition:50 - Execution Starts
+12:03:18,533  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+12:03:18,533  INFO main webdriver.DriverProvider:80 - Execution completed
+12:03:22,872  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+12:03:25,292  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+12:03:26,345  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+12:03:26,370  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+12:03:47,427  INFO main steps.BaseStepDefinition:65 - Execution Ends
+12:05:52,152  INFO main steps.BaseStepDefinition:50 - Execution Starts
+12:05:52,168  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+12:05:52,169  INFO main webdriver.DriverProvider:80 - Execution completed
+12:05:56,255  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+12:05:58,659  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+12:05:59,718  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+12:05:59,738  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+12:06:20,773  INFO main steps.BaseStepDefinition:65 - Execution Ends
+12:12:52,344  INFO main steps.BaseStepDefinition:50 - Execution Starts
+12:12:52,360  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+12:12:52,361  INFO main webdriver.DriverProvider:80 - Execution completed
+12:12:57,370  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+12:12:59,791  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+12:13:00,879  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+12:13:00,900  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+12:13:05,430  INFO main steps.BaseStepDefinition:65 - Execution Ends
+12:18:13,685  INFO main steps.BaseStepDefinition:50 - Execution Starts
+12:18:13,696  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+12:18:13,697  INFO main webdriver.DriverProvider:80 - Execution completed
+12:18:17,716  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+12:18:20,083  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+12:18:21,077  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+12:18:21,102  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+12:18:25,722  INFO main steps.BaseStepDefinition:65 - Execution Ends
+12:22:09,848  INFO main steps.BaseStepDefinition:50 - Execution Starts
+12:22:09,860  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+12:22:09,861  INFO main webdriver.DriverProvider:80 - Execution completed
+12:22:13,899  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+12:22:16,329  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+12:22:17,432  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+12:22:17,454  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+12:22:22,136  INFO main steps.BaseStepDefinition:65 - Execution Ends
+14:07:13,997  INFO main steps.BaseStepDefinition:50 - Execution Starts
+14:07:14,012  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+14:07:14,013  INFO main webdriver.DriverProvider:80 - Execution completed
+14:07:18,587  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+14:07:21,006  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+14:07:22,065  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+14:07:22,089  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+14:07:27,714  INFO main steps.BaseStepDefinition:65 - Execution Ends
+14:10:34,602  INFO main steps.BaseStepDefinition:50 - Execution Starts
+14:10:34,619  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+14:10:34,620  INFO main webdriver.DriverProvider:80 - Execution completed
+14:10:38,666  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+14:10:41,033  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+14:10:43,327  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+14:10:43,348  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+14:10:48,969  INFO main steps.BaseStepDefinition:65 - Execution Ends
+14:13:45,311  INFO main steps.BaseStepDefinition:50 - Execution Starts
+14:13:45,334  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+14:13:45,335  INFO main webdriver.DriverProvider:80 - Execution completed
+14:13:49,349  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+14:13:51,725  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+14:13:52,604  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+14:13:52,630  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+14:13:58,222  INFO main steps.BaseStepDefinition:65 - Execution Ends
+14:25:25,635  INFO main steps.BaseStepDefinition:50 - Execution Starts
+14:25:25,651  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+14:25:25,652  INFO main webdriver.DriverProvider:80 - Execution completed
+14:25:29,643  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+14:25:32,023  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+14:25:32,964  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+14:25:32,984  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+14:25:38,164  INFO main steps.BaseStepDefinition:65 - Execution Ends
+14:26:53,981  INFO main steps.BaseStepDefinition:50 - Execution Starts
+14:26:53,995  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+14:26:53,995  INFO main webdriver.DriverProvider:80 - Execution completed
+14:26:57,931  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+14:27:00,311  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+14:27:01,198  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+14:27:01,221  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+14:27:06,556  INFO main steps.BaseStepDefinition:65 - Execution Ends
+14:31:20,056  INFO main steps.BaseStepDefinition:50 - Execution Starts
+14:31:20,075  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+14:31:20,076  INFO main webdriver.DriverProvider:80 - Execution completed
+14:31:24,029  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+14:31:26,423  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+14:31:27,478  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+14:31:27,499  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+14:31:32,659  INFO main steps.BaseStepDefinition:65 - Execution Ends
+14:32:10,134  INFO main steps.BaseStepDefinition:50 - Execution Starts
+14:32:10,153  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+14:32:10,155  INFO main webdriver.DriverProvider:80 - Execution completed
+14:32:14,071  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+14:32:16,441  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+14:32:17,298  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+14:32:17,320  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+14:32:22,844  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:14:08,014  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:14:08,028  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:14:08,029  INFO main webdriver.DriverProvider:80 - Execution completed
+15:14:12,216  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:14:14,652  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:14:15,554  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:14:15,576  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:14:21,143  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:14:42,993  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:14:43,013  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:14:43,014  INFO main webdriver.DriverProvider:80 - Execution completed
+15:14:47,581  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:14:49,950  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:14:51,992  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:14:52,013  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:14:57,376  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:34:12,639  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:34:12,655  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:34:12,657  INFO main webdriver.DriverProvider:80 - Execution completed
+15:34:16,645  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:34:19,024  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:34:20,149  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:34:20,173  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:34:25,477  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:36:37,544  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:36:37,556  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:36:37,557  INFO main webdriver.DriverProvider:80 - Execution completed
+15:36:41,532  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:36:43,947  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:36:44,418  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:36:44,451  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:36:49,627  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:40:39,560  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:40:39,572  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:40:39,572  INFO main webdriver.DriverProvider:80 - Execution completed
+15:40:43,569  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:40:45,944  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:40:47,129  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:40:47,148  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:40:51,989  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:45:57,397  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:45:57,408  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:45:57,409  INFO main webdriver.DriverProvider:80 - Execution completed
+15:46:01,408  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:46:03,773  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:46:04,279  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:46:04,308  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:46:09,845  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:51:00,086  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:51:00,116  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:51:00,118  INFO main webdriver.DriverProvider:80 - Execution completed
+15:51:04,130  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:51:06,495  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:51:07,112  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:51:07,147  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:51:12,348  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:51:56,000  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:51:56,012  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:51:56,013  INFO main webdriver.DriverProvider:80 - Execution completed
+15:52:03,065  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:52:05,448  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:52:06,809  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:52:06,830  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:52:12,187  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:53:17,440  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:53:17,460  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:53:17,461  INFO main webdriver.DriverProvider:80 - Execution completed
+15:53:21,450  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:53:23,827  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:53:25,319  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:53:25,342  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:53:30,597  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:54:09,283  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:54:09,294  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:54:09,294  INFO main webdriver.DriverProvider:80 - Execution completed
+15:54:13,335  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:54:15,718  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:54:16,854  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:54:16,874  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:54:22,344  INFO main steps.BaseStepDefinition:65 - Execution Ends
+15:58:44,797  INFO main steps.BaseStepDefinition:50 - Execution Starts
+15:58:44,814  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+15:58:44,815  INFO main webdriver.DriverProvider:80 - Execution completed
+15:58:48,774  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+15:58:51,148  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+15:58:51,795  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+15:58:51,822  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+15:58:57,138  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:04:29,131  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:04:29,143  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:04:29,143  INFO main webdriver.DriverProvider:80 - Execution completed
+16:04:33,104  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:04:35,458  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:04:36,619  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:04:36,640  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:04:41,825  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:07:30,228  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:07:30,239  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:07:30,240  INFO main webdriver.DriverProvider:80 - Execution completed
+16:07:34,186  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:07:36,648  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:07:37,900  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:07:37,921  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:07:43,157  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:10:38,802  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:10:38,815  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:10:38,816  INFO main webdriver.DriverProvider:80 - Execution completed
+16:10:43,099  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:10:45,507  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:10:46,271  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:10:46,330  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:10:51,792  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:12:10,670  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:12:10,689  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:12:10,690  INFO main webdriver.DriverProvider:80 - Execution completed
+16:12:14,800  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:12:17,197  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:12:18,298  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:12:18,325  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:12:24,337  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:15:46,476  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:15:46,492  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:15:46,493  INFO main webdriver.DriverProvider:80 - Execution completed
+16:15:50,585  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:15:52,970  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:15:53,935  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:15:53,958  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:16:00,054  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:20:01,708  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:20:01,722  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:20:01,724  INFO main webdriver.DriverProvider:80 - Execution completed
+16:20:05,708  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:20:08,117  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:20:09,182  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:20:09,209  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:20:13,905  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:29:03,810  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:29:03,837  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:29:03,838  INFO main webdriver.DriverProvider:80 - Execution completed
+16:29:09,665  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:29:12,130  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:29:12,751  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:29:12,784  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:29:22,510  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:33:55,092  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:33:55,126  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:33:55,127  INFO main webdriver.DriverProvider:80 - Execution completed
+16:33:59,824  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:34:02,323  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:34:03,235  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:34:03,289  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:34:11,574  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:35:30,551  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:35:30,573  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:35:30,574  INFO main webdriver.DriverProvider:80 - Execution completed
+16:35:36,388  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:35:38,864  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:35:40,069  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:35:40,114  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:35:48,022  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:37:11,306  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:37:11,326  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:37:11,327  INFO main webdriver.DriverProvider:80 - Execution completed
+16:37:16,185  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:37:18,929  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:37:20,121  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:37:20,147  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:37:28,433  INFO main steps.BaseStepDefinition:65 - Execution Ends
+16:38:06,525  INFO main steps.BaseStepDefinition:50 - Execution Starts
+16:38:06,535  INFO main webdriver.DriverProvider:74 - Platform to run scripts: WINDOWS
+16:38:06,543  INFO main webdriver.DriverProvider:80 - Execution completed
+16:38:10,775  INFO main webdriver.DriverProvider:101 - Chrome Driver is executed
+16:38:13,181  INFO main steps.BaseStepDefinition:33 - applicationUrl: https://cartaxcheck.co.uk/car-history-check/
+16:38:14,117  INFO main pageobjects.CarHistoryCheckPage:43 - carHistoryCheck.getText(): Car History Check
+16:38:14,141  INFO main pageobjects.CarHistoryCheckPage:45 - Car History page launched
+16:38:19,542  INFO main steps.BaseStepDefinition:65 - Execution Ends

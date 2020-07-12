@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6625564700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "VehicleDetailsSteps.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "vehicle registration details",
+        "description": "",
+        "id": "validate-vehicle-registration-details;vehicle-registration-details",
+        "after": [
+          {
+            "result": {
+              "duration": 254200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "VehicleDetailsSteps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 89411000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "read and extract vehicle registration numbers from car input file",
+            "match": {
+              "location": "VehicleDetailsSteps.readAndExtractVehicleRegistrationNumbersFromCarInputFile()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 959150900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on car tax check page",
+            "match": {
+              "location": "VehicleDetailsSteps.iAmOnCarTaxCheckPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5352720500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter each registration and extract the vehicle details",
+            "match": {
+              "location": "VehicleDetailsSteps.iEnterEachRegistrationAndExtractTheVehicleDetails()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 36482500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "compare vehicle details with output file",
+            "match": {
+              "location": "VehicleDetailsSteps.compareVehicleDetailsWithOutputFile()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validate vehicle registration details",
+    "description": "",
+    "id": "validate-vehicle-registration-details",
+    "keyword": "Feature",
+    "uri": "CarTaxCheck.feature"
+  }
+]
